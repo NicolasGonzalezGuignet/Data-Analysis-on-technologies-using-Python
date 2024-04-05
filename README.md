@@ -1,1 +1,1 @@
-# Data-Analysis-on-technologies-using-Python
+In this project, you can see a practical case of data analysis with Python where the goal is to analyze the technologies used nowadays by people working in the IT sector. For example, we analyze which technologies they use on a daily basis, their salary, various activities, and other characteristics.
